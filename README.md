@@ -40,20 +40,3 @@ Abre un Pull Request.
 
 Licencia 📄
 Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
-
-Cómo agregar capturas de pantalla o videos
-Capturas de pantalla:
-
-Toma capturas de pantalla de tu aplicación en funcionamiento.
-
-Guarda las imágenes en una carpeta llamada screenshots dentro de tu proyecto.
-
-Referencia las imágenes en el README usando la sintaxis de Markdown: ![Texto alternativo](ruta/a/la/imagen.png).
-
-Videos:
-
-Graba un video corto mostrando cómo se usa la aplicación.
-
-Sube el video a una plataforma como YouTube o Google Drive.
-
-Inserta el enlace del video en el README usando la sintaxis de Markdown: [Ver video](enlace-al-video).
