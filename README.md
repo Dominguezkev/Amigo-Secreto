@@ -8,23 +8,8 @@ Lista de participantes: Los nombres agregados se muestran en una lista en tiempo
 
 Sorteo aleatorio: Al hacer clic en "Sortear amigo", la aplicación seleccionará aleatoriamente un nombre de la lista y lo mostrará como el amigo secreto.
 
-Capturas de pantalla 📸
-1. Agregar nombres
-Agregar nombres
-Captura de pantalla que muestra cómo agregar nombres a la lista.
-
-2. Lista de participantes
-Lista de participantes
-Captura de pantalla que muestra la lista de nombres agregados.
-
-3. Realizar el sorteo
-Sorteo
-Captura de pantalla que muestra el resultado del sorteo.
-
 Cómo usar la aplicación 🛠️
-Clona el repositorio:
 
-bash
 Copy
 git clone https://github.com/tu-usuario/amigo-secreto.git
 Abre el archivo index.html en tu navegador.
